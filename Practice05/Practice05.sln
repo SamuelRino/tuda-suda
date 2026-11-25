@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{BC8A1FFA-BEE3-4634-8014-F334798102B3}") = "MemoryDemo", "MemoryDemo.vcxproj", "{A5EE4F18-4662-4B72-B316-46ED74D75011}"
+EndProject
+Project("{BC8A1FFA-BEE3-4634-8014-F334798102B3}") = "MemoryBlock", "MemoryBlock.vcxproj", "{A5EE4F18-4662-4B72-B316-46ED74D75021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5EE4F18-4662-4B72-B316-46ED74D75011}.Debug|x64.ActiveCfg = Debug|x64
+		{A5EE4F18-4662-4B72-B316-46ED74D75011}.Debug|x64.Build.0 = Debug|x64
+		{A5EE4F18-4662-4B72-B316-46ED74D75011}.Release|x64.ActiveCfg = Release|x64
+		{A5EE4F18-4662-4B72-B316-46ED74D75011}.Release|x64.Build.0 = Release|x64
+		{A5EE4F18-4662-4B72-B316-46ED74D75021}.Debug|x64.ActiveCfg = Debug|x64
+		{A5EE4F18-4662-4B72-B316-46ED74D75021}.Debug|x64.Build.0 = Debug|x64
+		{A5EE4F18-4662-4B72-B316-46ED74D75021}.Release|x64.ActiveCfg = Release|x64
+		{A5EE4F18-4662-4B72-B316-46ED74D75021}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+EndGlobal
