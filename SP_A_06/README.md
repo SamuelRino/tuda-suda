@@ -10,7 +10,7 @@
 
 ## Сборка и запуск
 
-Откройте `Practice06.sln` в Visual Studio 2022, выберите **Release | Win32** и соберите решение. В `bin\Win32\Release` появятся `DiskSpaceC.exe` и `DiskSpaceAsm.exe`. Готовые файлы можно взять в [executables](executables/).
+Откройте `SP_A_06.sln` в Visual Studio 2022, выберите **Release | Win32** и соберите решение. В `bin\Win32\Release` появятся `DiskSpaceC.exe` и `DiskSpaceAsm.exe`. Готовые файлы можно взять в [executables](executables/).
 
 Команды для `cmd.exe` из каталога с исполняемыми файлами.
 
